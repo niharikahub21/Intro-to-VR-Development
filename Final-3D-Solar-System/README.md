@@ -17,4 +17,5 @@ This project is a simple 3D solar system created using Blender. It includes the 
 - Scene setup
 
 ## 📸 Project Preview
-(Add screenshots below)
+![Scene](Screenshot 2026-04-18 023409.png)
+![Scene](Screenshot 2026-04-18 023433.png)
